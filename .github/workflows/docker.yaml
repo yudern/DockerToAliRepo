@@ -3,7 +3,8 @@ name: Docker
 
 on:
   schedule:
-    - cron:  '30 5,17 * * *' # 每天5:30, 17:30执行，时间为国际标准时间，非北京时间！！  
+   - cron:   0 0/5 * * * 
+    # - cron:  '30 5,17 * * *' # 每天5:30, 17:30执行，时间为国际标准时间，非北京时间！！  
   workflow_dispatch:
   push:
     branches: [ main ]
