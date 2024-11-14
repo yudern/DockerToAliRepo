@@ -11,7 +11,7 @@ xiaoyaliu/alist
 containrrr/watchtower
 lstcml/n1_verysync
 diygod/rsshub
-
+haroldli/xiaoya-tvbox
 
 
 
